@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizationLibrary", "LocalizationLibrary\LocalizationLibrary.csproj", "{B9948E33-8D83-4501-B508-F588B3757AD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIAPP", "APIAPP\APIAPP.csproj", "{E8786304-1A6C-4564-A63D-374A432D1C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9948E33-8D83-4501-B508-F588B3757AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9948E33-8D83-4501-B508-F588B3757AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9948E33-8D83-4501-B508-F588B3757AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9948E33-8D83-4501-B508-F588B3757AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8786304-1A6C-4564-A63D-374A432D1C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8786304-1A6C-4564-A63D-374A432D1C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8786304-1A6C-4564-A63D-374A432D1C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8786304-1A6C-4564-A63D-374A432D1C81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87690AAD-3678-4399-8E4A-6E0B9A28265B}
+	EndGlobalSection
+EndGlobal
